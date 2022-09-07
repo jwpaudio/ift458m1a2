@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "customerName": "John Smith",
+    "phoneNumber": "555-123-0179",
+    "address": "123 Curly Street",
+    "loanAmount": "6000.00",
+    "interest": ".047",
+    "loanTermYears": "5",
+    "loanType": "Car",
+    "description": "A loan for a used car"
+  },
+  {
+    "id": 1,
+    "customerName": "Joey Brown",
+    "phoneNumber": "666-123-4678",
+    "address": "626 Wiggly Street",
+    "loanAmount": "150000.00",
+    "interest": ".0315",
+    "loanTermYears": "30",
+    "loanType": "Home",
+    "description": "A mortgage loan for a new construction home"
+  },
+  {
+    "id": 2,
+    "customerName": "Sarah Orange",
+    "phoneNumber": "121-857-9473",
+    "address": "3498 Long Way",
+    "loanAmount": "2500.00",
+    "interest": ".12",
+    "loanTermYears": "2",
+    "loanType": "Personal",
+    "description": "A small personal loan"
+  },
+  {
+    "id": 3,
+    "customerName": "Cindy Ginsburg",
+    "phoneNumber": "202-846-1167",
+    "address": "1239 Massachusetts Avenue",
+    "loanAmount": "1245000.00",
+    "interest": ".035",
+    "loanTermYears": "30",
+    "loanType": "Home",
+    "description": "A mortgage loan on an expensive new construction home"
+  },
+  {
+    "id": 4,
+    "customerName": "Jerry Long",
+    "phoneNumber": "717-885-9372",
+    "address": "877 Straight Street",
+    "loanAmount": "30000.00",
+    "interest": ".041",
+    "loanTermYears": "6",
+    "loanType": "Car",
+    "description": "A loan for a sweet new BMW that Jerry has always wanted"
+  }
+]
